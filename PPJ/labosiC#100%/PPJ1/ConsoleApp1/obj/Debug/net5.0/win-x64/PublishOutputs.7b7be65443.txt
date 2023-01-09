@@ -1,0 +1,5 @@
+C:\Users\jakov\Desktop\asdas\ConsoleApp1.exe
+C:\Users\jakov\Desktop\asdas\ConsoleApp1.dll
+C:\Users\jakov\Desktop\asdas\ConsoleApp1.deps.json
+C:\Users\jakov\Desktop\asdas\ConsoleApp1.runtimeconfig.json
+C:\Users\jakov\Desktop\asdas\ConsoleApp1.pdb

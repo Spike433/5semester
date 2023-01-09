@@ -1,0 +1,16 @@
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\bin\Debug\net5.0\PPJ2.exe
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\bin\Debug\net5.0\PPJ2.deps.json
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\bin\Debug\net5.0\PPJ2.runtimeconfig.json
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\bin\Debug\net5.0\PPJ2.runtimeconfig.dev.json
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\bin\Debug\net5.0\PPJ2.dll
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\bin\Debug\net5.0\ref\PPJ2.dll
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\bin\Debug\net5.0\PPJ2.pdb
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\obj\Debug\net5.0\PPJ2.csprojAssemblyReference.cache
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\obj\Debug\net5.0\PPJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\obj\Debug\net5.0\PPJ2.AssemblyInfoInputs.cache
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\obj\Debug\net5.0\PPJ2.AssemblyInfo.cs
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\obj\Debug\net5.0\PPJ2.csproj.CoreCompileInputs.cache
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\obj\Debug\net5.0\PPJ2.dll
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\obj\Debug\net5.0\ref\PPJ2.dll
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\obj\Debug\net5.0\PPJ2.pdb
+C:\Users\jakov\RiderProjects\PPJ2\PPJ2\obj\Debug\net5.0\PPJ2.genruntimeconfig.cache
